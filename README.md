@@ -2,6 +2,21 @@
 Final Project Internship - ID/X Partners x Rakamin: A predictive dashboard to identify high-risk customers for early credit default detection
 
 
+<img src = 'https://github.com/anggapradanaa/Credit-Risk-Analysis-Using-XGBoost-and-LightGBM-Models/blob/main/images/1.png'>
+<img src = 'https://github.com/anggapradanaa/Credit-Risk-Analysis-Using-XGBoost-and-LightGBM-Models/blob/main/images/2.png'>
+<img src = 'https://github.com/anggapradanaa/Credit-Risk-Analysis-Using-XGBoost-and-LightGBM-Models/blob/main/images/3.png'>
+<img src = 'https://github.com/anggapradanaa/Credit-Risk-Analysis-Using-XGBoost-and-LightGBM-Models/blob/main/images/4.png'>
+<img src = 'https://github.com/anggapradanaa/Credit-Risk-Analysis-Using-XGBoost-and-LightGBM-Models/blob/main/images/5.png'>
+<img src = 'https://github.com/anggapradanaa/Credit-Risk-Analysis-Using-XGBoost-and-LightGBM-Models/blob/main/images/6.png'>
+<img src = 'https://github.com/anggapradanaa/Credit-Risk-Analysis-Using-XGBoost-and-LightGBM-Models/blob/main/images/7.png'>
+<img src = 'https://github.com/anggapradanaa/Credit-Risk-Analysis-Using-XGBoost-and-LightGBM-Models/blob/main/images/8.png'>
+<img src = 'https://github.com/anggapradanaa/Credit-Risk-Analysis-Using-XGBoost-and-LightGBM-Models/blob/main/images/9.png'>
+<img src = 'https://github.com/anggapradanaa/Credit-Risk-Analysis-Using-XGBoost-and-LightGBM-Models/blob/main/images/10.png'>
+<img src = 'https://github.com/anggapradanaa/Credit-Risk-Analysis-Using-XGBoost-and-LightGBM-Models/blob/main/images/11.png'>
+<img src = 'https://github.com/anggapradanaa/Credit-Risk-Analysis-Using-XGBoost-and-LightGBM-Models/blob/main/images/12.png'>
+<img src = 'https://github.com/anggapradanaa/Credit-Risk-Analysis-Using-XGBoost-and-LightGBM-Models/blob/main/images/13.png'>
+
+
 ```python
 # Import Libraries
 import pandas as pd
