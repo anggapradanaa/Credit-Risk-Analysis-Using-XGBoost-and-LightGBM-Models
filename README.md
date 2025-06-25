@@ -563,21 +563,14 @@ print("="*50)
 
 
     
-![png](output_0_1.png)
-    
-
-
+<img src = 'https://github.com/anggapradanaa/Credit-Risk-Analysis-Using-XGBoost-and-LightGBM-Models/blob/main/images/roc.png'>
 
     
-![png](output_0_2.png)
-    
+
 
 
     
-    ==================================================
-    ANALYSIS COMPLETE!
-    All models have been trained and evaluated successfully.
-    ==================================================
+<img src = 'https://github.com/anggapradanaa/Credit-Risk-Analysis-Using-XGBoost-and-LightGBM-Models/blob/main/images/feature_importance.png'>
     
 
 
